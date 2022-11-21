@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gradle/
+.idea/
+build/
+classes
+javatest.iml
+mysql-stat.iml
+logs
+tmplogs
+genlog-playback.iml
+dbproxyshell
+out
+tmp
+tmp2
+slowlog
+.DS_Store
+hs_err_pid*
+.vscode/
+my_build_dir
